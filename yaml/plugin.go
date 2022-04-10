@@ -9,6 +9,10 @@ import (
 type YamlConfigPlugin struct {
 }
 
+func (p *YamlConfigPlugin) Order() int {
+	return -1
+}
+
 func (p *YamlConfigPlugin) Load() error {
 	return config.InitInstance("yaml", "application.yaml")
 }
