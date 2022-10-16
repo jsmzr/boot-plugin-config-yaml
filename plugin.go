@@ -1,7 +1,6 @@
-package yaml
+package plugin
 
 import (
-	_ "github.com/jsmzr/bootstrap-config-yaml/yaml"
 	"github.com/jsmzr/bootstrap-config/config"
 	"github.com/jsmzr/bootstrap-plugin/plugin"
 )
@@ -14,6 +13,7 @@ func (p *YamlConfigPlugin) Order() int {
 }
 
 func (p *YamlConfigPlugin) Load() error {
+	config.Register("yaml", &YamlConfig{})
 	return config.InitInstance("yaml", "application.yaml")
 }
 

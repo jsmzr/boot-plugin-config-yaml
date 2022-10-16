@@ -4,7 +4,6 @@ go 1.17
 
 require (
 	github.com/jsmzr/bootstrap-config v0.0.3
-	github.com/jsmzr/bootstrap-config-yaml v0.0.4
 	github.com/jsmzr/bootstrap-plugin v0.0.2
 )
 
