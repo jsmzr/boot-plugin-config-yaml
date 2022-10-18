@@ -1,7 +1,7 @@
 package plugin
 
 import (
-	"github.com/jsmzr/bootstrap-config/config"
+	config "github.com/jsmzr/bootstrap-config"
 	"github.com/jsmzr/bootstrap-plugin/plugin"
 )
 

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/jsmzr/bootstrap-config/config"
+	config "github.com/jsmzr/bootstrap-config"
 	"gopkg.in/yaml.v2"
 )
 

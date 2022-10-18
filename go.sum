@@ -1,7 +1,5 @@
-github.com/jsmzr/bootstrap-config v0.0.3 h1:w6hHZD1ZD8oetKrYGmPaxoswyvhtYrtlF9BM4q30CS8=
-github.com/jsmzr/bootstrap-config v0.0.3/go.mod h1:RPum56DdfkCbMipzuB6o0b87HppC4EUFPULxuEbOAvE=
-github.com/jsmzr/bootstrap-config-yaml v0.0.4 h1:VCaurxdnQ1nFrfYRr8w5MdyMWngYBjYRnaW+w2PaNMM=
-github.com/jsmzr/bootstrap-config-yaml v0.0.4/go.mod h1:0o/VPO3B7l5jyYAM+v7cfHxUXSO8r38PPdtfID8ycJo=
+github.com/jsmzr/bootstrap-config v0.1.0 h1:6j37lufKiBCzgi62vRVQuroHeEx2NjNND9Y3AIfOsf0=
+github.com/jsmzr/bootstrap-config v0.1.0/go.mod h1:RPum56DdfkCbMipzuB6o0b87HppC4EUFPULxuEbOAvE=
 github.com/jsmzr/bootstrap-plugin v0.0.2 h1:KsqC0llFuGW5CXulsOmFZEe9FneZLNgoiCEImlQLUwk=
 github.com/jsmzr/bootstrap-plugin v0.0.2/go.mod h1:nH+IQoW9iW88IvGOKgiVFch2Li9LAQF3vHiPYCJEJ2k=
 github.com/tidwall/gjson v1.14.0 h1:6aeJ0bzojgWLa82gDQHcx3S0Lr/O51I9bJ5nv6JFx5w=
