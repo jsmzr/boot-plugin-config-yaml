@@ -3,7 +3,7 @@ package plugin
 import (
 	"encoding/json"
 	"fmt"
-	"io/ioutil"
+	"os"
 
 	config "github.com/jsmzr/bootstrap-config"
 	"gopkg.in/yaml.v2"
@@ -16,7 +16,7 @@ type YamlContainer struct {
 }
 
 func (c *YamlConfig) Load(filename string) (config.Configer, error) {
-	data, err := ioutil.ReadFile(filename)
+	data, err := os.ReadFile(filename)
 	if err != nil {
 		return nil, err
 	}

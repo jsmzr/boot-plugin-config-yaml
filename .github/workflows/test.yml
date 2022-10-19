@@ -20,14 +20,14 @@ jobs:
       - name: Setup go
         uses: actions/setup-go@v3
         with:
-          go-version: '^1.17'
+          go-version: '^1.16'
       - name: Checkout repository
         uses: actions/checkout@v3
       - name: Setup golangci-lint
         uses: golangci/golangci-lint-action@v3.2.0
         with:
           version: v1.48.0
-          args: --verbose --go 1.17
+          args: --verbose
   test:
     needs: lint
     strategy:
