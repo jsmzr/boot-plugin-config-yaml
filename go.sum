@@ -1,7 +1,7 @@
 github.com/jsmzr/boot-config v0.1.2 h1:RbFCFSathlCdv6YPdW1CAjvo92ph5JglW1eN1UaCHWk=
 github.com/jsmzr/boot-config v0.1.2/go.mod h1:hQ1GpVBppyvlXxEO+FbG+iD8ozLvhayLFfk0d0y2W3Q=
-github.com/jsmzr/boot-plugin v0.1.0 h1:ON12rFAumW3fw1z4AHrOvdbb1Uvi1SrGU3oDP6BCxLU=
-github.com/jsmzr/boot-plugin v0.1.0/go.mod h1:Sc2Oxxd6gB6iyeKWyYAB1TzL7JD22ohU/diAL0li5SQ=
+github.com/jsmzr/boot-plugin v0.2.0 h1:eSptz0FRsq9FPgVRQhIQVdoarXXCJU1BjRwS4mZnVvA=
+github.com/jsmzr/boot-plugin v0.2.0/go.mod h1:Sc2Oxxd6gB6iyeKWyYAB1TzL7JD22ohU/diAL0li5SQ=
 github.com/tidwall/gjson v1.14.0 h1:6aeJ0bzojgWLa82gDQHcx3S0Lr/O51I9bJ5nv6JFx5w=
 github.com/tidwall/gjson v1.14.0/go.mod h1:/wbyibRr2FHMks5tjHJ5F8dMZh3AcwJEMf5vlfC0lxk=
 github.com/tidwall/match v1.1.1 h1:+Ho715JplO36QYgwN9PGYNhgZvoUSc9X2c80KVTi+GA=

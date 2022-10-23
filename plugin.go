@@ -17,6 +17,10 @@ func (p *YamlConfigPlugin) Load() error {
 	return config.InitInstance("yaml", "application.yaml")
 }
 
+func (p *YamlConfigPlugin) Enabled() bool {
+	return true
+}
+
 func init() {
 	plugin.Register("config", &YamlConfigPlugin{})
 }

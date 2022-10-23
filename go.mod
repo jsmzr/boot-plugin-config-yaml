@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/jsmzr/boot-config v0.1.2
-	github.com/jsmzr/boot-plugin v0.1.0
+	github.com/jsmzr/boot-plugin v0.2.0
 	gopkg.in/yaml.v2 v2.4.0
 )
 
