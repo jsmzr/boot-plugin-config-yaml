@@ -1,10 +1,10 @@
-module github.com/jsmzr/bootstrap-plugin-config-yaml
+module github.com/jsmzr/boot-plugin-config-yaml
 
 go 1.17
 
 require (
-	github.com/jsmzr/bootstrap-config v0.1.1
-	github.com/jsmzr/bootstrap-plugin v0.1.0
+	github.com/jsmzr/boot-config v0.1.2
+	github.com/jsmzr/boot-plugin v0.1.0
 	gopkg.in/yaml.v2 v2.4.0
 )
 

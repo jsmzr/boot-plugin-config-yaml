@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	config "github.com/jsmzr/bootstrap-config"
+	config "github.com/jsmzr/boot-config"
 	"gopkg.in/yaml.v2"
 )
 

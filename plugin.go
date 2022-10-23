@@ -1,8 +1,8 @@
 package plugin
 
 import (
-	config "github.com/jsmzr/bootstrap-config"
-	plugin "github.com/jsmzr/bootstrap-plugin"
+	config "github.com/jsmzr/boot-config"
+	plugin "github.com/jsmzr/boot-plugin"
 )
 
 type YamlConfigPlugin struct {
